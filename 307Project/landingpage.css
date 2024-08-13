@@ -1,0 +1,107 @@
+body {
+    background-image: url(Images/Woods.jpg);
+    font-family: "Poppins", sans-serif;
+}
+
+
+.h-text {
+    color: white;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-size: 3.5em;
+    
+    
+
+}
+
+.h-text a{
+    text-decoration: none;
+    background: indianred;
+    padding: 10px 20px;
+    color: white;
+    letter-spacing: 5px;
+    font-family: "Poppins", sans-serif;
+    font-size: xx-large;
+
+
+
+
+}
+
+.Link :hover{
+    background-color: yellow;
+
+}
+
+
+.Link :hover {
+    transform: scale(4);
+    transition: ease-in-out;
+}
+
+.Link{
+    margin-top: 0%;
+    
+    
+}
+
+
+p {
+    font-size: larger;
+    
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+    
+    
+    
+}
+
+
+
+
+
+#link1 a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    
+    
+    
+}
+
+
+#link2 a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    
+    
+}
+
+
+#link3 a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    
+
+}
+
+
+#link4 a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    
+
+}
